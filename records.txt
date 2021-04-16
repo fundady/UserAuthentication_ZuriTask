@@ -4,3 +4,7 @@ ultrasoft101@gmail.com,sly@gmail.com,$2y$10$cnD65JHg4iBJUGRD3LgDv.D4JcY34/2g5EUM
 vineinstitute,codepickin@gmail.com,$2y$10$UIZd.815WHuWOIl36FNNVuoKtBiFgxBj8rcUDBmDeHRkSjebb4xRC
 CreatorsHouse,ultra@gmail.com,$2y$10$lAzu1UpkZkosz5omRaD1Pe9SKmapj0Xue4IgkCP0rZEuuC6to94a2
 aasssasa,ultra@gmail.com,$2y$10$8SITsEf/Us9LYdshqGB4PuLDD8.uWGQ3NCYQv4vZXYS6B8jByeWgO
+newguy,newguy@gmail.com,$2y$10$tyoQSEAfSPfN4zbH98vQpOOysy6MiWVXguN/JY0bvZA6Q/Vjwv2BO
+myguy,myguy@gmail.com,$2y$10$FqegYbMtV3GlqndKGP80lOuCKEwAHI.8NzeAqYCc9ad8e6KEOOkr6
+goodboy,goodboy@gmail.com,$2y$10$M02h8gvvp4hbZ5jomgJqle/P2UX8tUYv9nJglZ2i0wJHVcpbGhYu.
+good,good@gmail.com,$2y$10$p5mwJp2jLRfbBovPNw78g.IEcOR0S7C4F/JI.Y/c8We8zc0P9eTWC

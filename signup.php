@@ -54,6 +54,7 @@ if (isset($_POST[signupBtn])){
                 fputs($file,$username . "," . $email . ",". $hashed_password. "\r\n");
                 fclose($file);
                 $result = flashMessage($username. " Registration successful");
+                redirectTo('homepage');
             }
         } catch (Exception $exception) {
         $result = flashMessage("An error has occurred ".$exception->getMessage());
